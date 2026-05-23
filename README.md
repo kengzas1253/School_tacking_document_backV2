@@ -40,3 +40,19 @@ Backend API สำหรับระบบติดตามสถานะห�
 SUPABASE_URL=https://your-project.supabase.co
 SUPABASE_SERVICE_ROLE_KEY=your-service-role-key
 PORT=3000
+```
+ 
+ **Download Code:**
+```bash
+   git clone https://github.com/kengzas1253/School_tacking_document_backV2
+```
+ **ติดตั้ง dependencies ทั้งหมด:** 
+```bash
+   npm install
+```
+ **Run Project:**
+```bash
+   node server.js
+```
+
+
